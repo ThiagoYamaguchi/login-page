@@ -111,6 +111,11 @@
     box-shadow: 0 10px 40px -12px #00ff8052;
 }
 
+.btn-login:hover {
+    color: #e6e6e6;
+    background: #018d4c;
+}
+
 @media only screen and (max-width: 950px) {
     .card-login {
         width: 85%;
@@ -132,7 +137,7 @@
     }
 
     .left-login-image {
-        width: 50vw;
+        width: 73vw;
     }
 
     .right-login {
